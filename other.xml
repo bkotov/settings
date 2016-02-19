@@ -1,0 +1,11 @@
+<application>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
+  <component name="TeamCityHistory">
+    <option name="HISTORY" value="http://vm-server.loc:8111&amp;^%$#@admin@#$%^&amp;http://vm-server.loc&amp;^%$#@admin" />
+  </component>
+</application>
